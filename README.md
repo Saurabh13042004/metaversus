@@ -56,7 +56,7 @@ Experience the magic of Metaversus through its stunning visuals, brought to life
 [//]: # "Add space for images here"
 
 ## Screenshots
-
-## ![Screenshot]("screenshot.png")
+      
+## ![Screenshot](screenshot.png)
 
 Dive into the Metaversus experience today and unlock the limitless possibilities of the digital universe!
